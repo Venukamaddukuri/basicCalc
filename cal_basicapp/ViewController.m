@@ -17,7 +17,7 @@ typedef enum{ Plus,Minus,Multiply,Divide} CalcOperation;
 
     CalcOperation operation;
     //int storage;
-    int val;
+    //int val;
 
 - (void)viewDidLoad {
     [super viewDidLoad];
